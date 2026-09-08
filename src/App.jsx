@@ -155,7 +155,7 @@ function App() {
             {/* HERO TEXT */}
             <div className="text-white">
               <p className="mb-4 text-sm font-bold uppercase tracking-[0.3em] text-sky-200">
-                Software Engineering Student
+                Software Engineering 
               </p>
 
               <h1 className="text-5xl font-black leading-[1.05] sm:text-6xl lg:text-7xl">
