@@ -155,7 +155,7 @@ function App() {
             {/* HERO TEXT */}
             <div className="text-white">
               <p className="mb-4 text-sm font-bold uppercase tracking-[0.3em] text-sky-200">
-                Software Engineering 
+                Software Engineering
               </p>
 
               <h1 className="text-5xl font-black leading-[1.05] sm:text-6xl lg:text-7xl">
@@ -169,11 +169,11 @@ function App() {
               </h2>
 
               <p className="mt-6 max-w-2xl text-base leading-8 text-white/80 sm:text-lg">
-                Software Engineering graduate from FPT University – Can Tho Campus, with hands-on experience in web 
-                application development and an internship at FPT Software. 
+                Software Engineering graduate from FPT University – Can Tho Campus, with hands-on experience in web
+                application development and an internship at FPT Software.
                 Familiar with Java, Spring Boot, React, MongoDB, and PostgreSQL, with a strong interest in backend and full-stack web development.
 
-                I enjoy building practical web applications, learning new technologies, and continuously 
+                I enjoy building practical web applications, learning new technologies, and continuously
                 improving my software engineering skills through real-world projects and hands-on experience.
               </p>
 
@@ -218,12 +218,10 @@ function App() {
           <div className="grid gap-8 md:grid-cols-2">
             <div className="rounded-3xl bg-white p-8 shadow-xl shadow-slate-200/60">
               <p className="leading-8 text-slate-600">
-                I am a Software Engineering student at FPT University – Can Tho
-                Campus, interested in backend and full-stack web development.
-                My main technologies include Java, Spring Boot, React, MongoDB,
-                and PostgreSQL.
+                I am a Software Engineering graduate from FPT University – Can Tho
+                Campus, interested in backend and full-stack web development. My main
+                technologies include Java, Spring Boot, React, MongoDB, and PostgreSQL.
               </p>
-
               <p className="mt-5 leading-8 text-slate-600">
                 I enjoy building practical web applications, learning new
                 technologies, and improving my software engineering skills
